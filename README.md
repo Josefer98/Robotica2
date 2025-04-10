@@ -47,13 +47,13 @@ prueba con este comando:
   -brazo armado:
 
   <p>
-  <img src="files/brazo.jpeg" alt="brazo" width="500" heigth="500"/>
+  <img src="files/brazo.jpeg" alt="brazo" width="500" height="500"/>
   </p>
   
   -opcional el uso de de una fuente para dar energia solo a los servomotores:
 
   <p>
-  <img src="files/fuente.jpeg" alt="fuente" width="500" heigth="500"/>
+  <img src="files/fuente.jpeg" alt="fuente" width="500" height="500"/>
   </p>
   
 # 🎥Demostracion de funcionamineto
