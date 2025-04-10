@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/46d239e3-fe21-4da4-a202-de4b478b8766)# Robotica2
+# Robotica2
 ## Nombres: Cristian Alejandro Durán Ignacio - Alfaro Ayzama José Fernando - Ever Rolando Rejas Espinoza
 
 # 🚀 Proyecto 2
