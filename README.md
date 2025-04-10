@@ -1,4 +1,4 @@
-# Robotica2
+![image](https://github.com/user-attachments/assets/46d239e3-fe21-4da4-a202-de4b478b8766)# Robotica2
 ## Nombres: Cristian Alejandro Durán Ignacio - Alfaro Ayzama José Fernando - Ever Rolando Rejas Espinoza
 
 # 🚀 Proyecto 2
@@ -24,7 +24,7 @@ Para este proyecto se utilzo el editor MU
 en la teminal ejecuta:
 
 ![comandos](files/comandos.jpg)
-### conectar camara y probar en rasberry
+### Conectar camara y probar en rasberry
 conecta la camara mediante el usb
 prueba con este comando:
 
@@ -37,6 +37,10 @@ prueba con este comando:
   -usa el pin 27 para el tercer servomotor que controlara que la garra abra o cierre
   
   -coneccion a tierra importante 
+
+  <p>
+  <img src="files/pinesrassberry.jpeg" alt="rassberry" width="500" height="500"/>
+  </p>
   
   -conecciones:
   
