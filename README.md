@@ -16,9 +16,17 @@
 
 ## 🚀Para armado y utilizacion de codigo
 ### clonar el repositorio 
+git clone https://github.com/Josefer98/Robotica2.git
 ### copiar el codigo en un entorno adecuado para python
+Para este proyecto se utilzo el editor MU
+
 ### instalar dependencias
+en la teminal ejecuta:
+
 ### conectar camara y probar en rasberry
+conecta la camara mediante el usb
+pruena con este comando:
+
 ### Armar brazo robótico
   -usa el pin 17 para el primer servomotor que controlara el movimiento de derecha a izquierda
   -usa el pin 18 para el sefundo servomotor que controlara el movimiento de arriba a abajo
