@@ -15,25 +15,29 @@
 ### Este software fue desarrollado y probado en el **editor Mu**, corriendo sobre el sistema operativo Raspbian en una **Raspberry Pi 4**, con acceso remoto desde una PC.
 
 ## 🚀Para armado y utilizacion de codigo
-### clonar el repositorio 
+### Clonar el repositorio 
 git clone https://github.com/Josefer98/Robotica2.git
-### copiar el codigo en un entorno adecuado para python
+### Copiar el codigo en un entorno adecuado para python
 Para este proyecto se utilzo el editor MU
-
-### instalar dependencias
+![Editor MU de Rasbien](files/mu.jpg)
+### Instalar dependencias
 en la teminal ejecuta:
-
+![comandos](files/comandos.jpg)
 ### conectar camara y probar en rasberry
 conecta la camara mediante el usb
-pruena con este comando:
-
+prueba con este comando:
+![comandos](files/pruebacam.jpg)
 ### Armar brazo robótico
   -usa el pin 17 para el primer servomotor que controlara el movimiento de derecha a izquierda
   -usa el pin 18 para el sefundo servomotor que controlara el movimiento de arriba a abajo
   -usa el pin 27 para el tercer servomotor que controlara que la garra abra o cierre
   -coneccion a tierra importante 
+  -conecciones
+  ![Conecciones echas](files/circuito.jpeg)
+  -brazo armado
+  ![brazo](brazo/mu.jpeg)
   -opcional el uso de de una fuente para dar energia solo a los servomotores
-
-## 🎥Demostracion de funcionamineto
-
+  ![Fuente](files/fuente.jpeg)
+# 🎥Demostracion de funcionamineto
+![Brazo robot](files/demostracion.gif)
   
