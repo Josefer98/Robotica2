@@ -39,7 +39,7 @@ prueba con este comando:
   -coneccion a tierra importante 
 
   <p>
-  <img src="files/pinesrassberry.jpg" alt="rassberry" width="500" height="500"/>
+  <img src="files/pinesrassberry.jpg" alt="rassberry" width="700" height="500"/>
   </p>
   
   -conecciones:
